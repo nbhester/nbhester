@@ -1,4 +1,4 @@
-- Hi, I’m @nbhester and in spite of joining Github in 2014 this is my first serious foray into it.
+- Hi, I’m Noah Hester and in spite of joining Github in 2014 this is my first serious foray into it.
 - I’m interested in all things IT.
 - I’m currently learning python. Perl was my first language that ran in production and I prefer it over python, but python _is_ the new shiny.  Go and Rust are next and maybe C/C++.
 - I am studying for my Cisco CCNP and now with new found desire to earn my CCIE.
