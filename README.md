@@ -1,8 +1,11 @@
 - Hi, I’m Noah Hester and in spite of joining Github in 2014 this is my first serious foray into it.
 - I’m interested in all things IT.
-- I’m currently learning python. Perl was my first language that ran in production and I prefer it over python, but python _is_ the new shiny.  Go and Rust are next and maybe C/C++.
-- I am studying for my Cisco CCNP and now with new found desire to earn my CCIE.
-- I’m looking to collaborate on pinetime64 https://www.pine64.org/pinetime/ yet at the moment that is over my head but I am making progress with small board computers, Raspberry  Pi, et. al., and some progress early adopting the linux based PinePhone64.
+- Perl5 was my first language that ran in production and I prefer it over python, but python _is_ the new shiny. 
+- I am studying for my Cisco CCNP-EI and now with new found desire to earn my CCIE-EI.
+--- 
+- I’m ~~looking to collaborate on~~ going to wear a PineTime64 watch (https://www.pine64.org/pinetime/).  Its companion, the PinePhone64 with Manjaro Linux OS, if you carry an extra battery and a battery charger, it *could* be a daily driver after you add in a low end point 'n shoot for your mobile photos.  Breaking away from the market leaders will not be easy. 
+- After having spent the last six months on a Raspberry PI 4 (w/ 8GB ram) running Manjaro Linux to go with the PinePhone64 and while I could live like this but no and in my continued pursuit of the more perfect desktop, a friendly GUI on top of a type 1 hypervisor, I am test driving Qubes OS.
+
 
 
 <!---
