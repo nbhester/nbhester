@@ -1,10 +1,9 @@
-- Hi, I’m Noah Hester and in spite of joining Github in 2014 this is my first serious foray into it.
-- I’m interested in all things IT.
-- Perl5 was my first language that ran in production and I prefer it over python, but python _is_ the new shiny. 
+- Hi, I’m Noah Hester and I’m interested in most things IT.  Unrelated, I've never met anyone that does Biztalk.
+- Perl5 was my first language that ran in production.
 - I am studying for my Cisco CCNP-EI and now with new found desire to earn my CCIE-EI.
 --- 
 - I am settling into Qubes OS for my desktop.  Currently it's on a Compaq/HP desktop (circa 2013) with an i5 cpu and 32GB of ram. A SSD is mandatory.
-- I’m ~~looking to collaborate on~~ going to wear a PineTime64 watch (https://www.pine64.org/pinetime/).  Its companion, the PinePhone64 with Manjaro Linux OS, if you carry an extra battery and a battery charger, it *could* be a daily driver after you add in a low end point 'n shoot for your mobile photos.  Breaking away from the market leaders will not be easy. 
+- I’m into the PinePhone64 with Manjaro Linux OS and if you carry an extra battery and a battery charger it *could* be a daily driver after you add in a low end point 'n shoot for your mobile photos.  Breaking away from the market leaders will not be easy. 
 
 
 
